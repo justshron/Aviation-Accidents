@@ -19,3 +19,5 @@ Accident and fatality rates vary across years, peaking in specific decades.
 A small number of operators and countries dominate accident counts.
 
 Some aircraft types are disproportionately involved.
+
+
