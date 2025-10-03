@@ -20,4 +20,6 @@ A small number of operators and countries dominate accident counts.
 
 Some aircraft types are disproportionately involved.
 
+## links and files
+tableau dashboard https://public.tableau.com/authoring/aviation-accidents/fatalitiesperyear/Dashboard%202#5
 
