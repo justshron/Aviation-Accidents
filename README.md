@@ -23,3 +23,4 @@ Some aircraft types are disproportionately involved.
 ## links and files
 tableau dashboard https://public.tableau.com/authoring/aviation-accidents/fatalitiesperyear/Dashboard%202#5
 
+
